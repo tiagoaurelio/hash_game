@@ -1,2 +1,2 @@
 # hash_game
-Funny Game
+Challenge for Gazeus Games.
